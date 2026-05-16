@@ -1,0 +1,3 @@
+cd SmartCafe
+g++ -std=c++17 src/*.cpp -o SmartCafe
+.\SmartCafe.exe

@@ -1,0 +1,3 @@
+Coffee,150,Drinks
+Burger,300,FastFood
+Cake,250,Desserts
